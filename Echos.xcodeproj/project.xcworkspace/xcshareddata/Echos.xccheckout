@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4C80CDB8-B0A9-4B5A-93B3-ABF405796BC7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Echos</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CFFD09B0CF6379AEDD7A6A9D911BCE3967DE40CF</key>
+		<string>https://github.com/projectechosapp/Echos-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Echos.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CFFD09B0CF6379AEDD7A6A9D911BCE3967DE40CF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/projectechosapp/Echos-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CFFD09B0CF6379AEDD7A6A9D911BCE3967DE40CF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CFFD09B0CF6379AEDD7A6A9D911BCE3967DE40CF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Echos</string>
+		</dict>
+	</array>
+</dict>
+</plist>
